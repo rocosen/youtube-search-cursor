@@ -1,0 +1,22 @@
+{
+  "name": "youtube-search-flashdata",
+  "displayName": "YouTube Search — FlashData",
+  "version": "0.1.1",
+  "description": "Search YouTube videos by keyword with date, duration, feature and sorting filters. Return video IDs, channels and available statistics. Uses the paid FlashData API.",
+  "author": {
+    "name": "FlashData",
+    "email": "support@flashdata.dev"
+  },
+  "homepage": "https://flashdata.dev/docs/sources/youtube_search?utm_source=cursor-directory&utm_medium=integration&utm_campaign=intent_gtm_2026q4&utm_content=youtube_search-task",
+  "repository": "https://github.com/rocosen/youtube-search-cursor",
+  "license": "MIT",
+  "keywords": [
+    "youtube-search",
+    "youtube-video-search",
+    "mcp",
+    "model-context-protocol",
+    "flashdata",
+    "cursor"
+  ],
+  "logo": "assets/logo.svg"
+}
